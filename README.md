@@ -1,2 +1,3 @@
-# static-bilkent-united-site
-A Static Version of the Bilkent United Site
+# Installation
+- Firebase CLI is installed in the repo, make sure to re-install if not.
+- Push the project to what ever static hosting needed
