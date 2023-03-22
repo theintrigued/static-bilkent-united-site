@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
-	<atom:link href="http://bilkentunited.tech/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://bilkentunited.tech/hello-world/</link>
+	Comments for Avada Extreme Sports	</title>
+	<atom:link href="http://bilkentunited.tech/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://bilkentunited.tech/</link>
 	<description></description>
 	<lastBuildDate>Tue, 21 Mar 2023 15:55:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>http://bilkentunited.tech/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
